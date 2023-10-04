@@ -1,0 +1,189 @@
+F:\School Management System\bin\Debug\School Management System.exe
+F:\School Management System\bin\Debug\School Management System.exe.config
+F:\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+F:\School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+F:\School Management System\obj\Debug\School_Management_System.frmDetails.resources
+F:\School Management System\obj\Debug\School_Management_System.Registration.resources
+F:\School Management System\obj\Debug\School_Management_System.frmHome.resources
+F:\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+F:\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+F:\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+F:\School Management System\obj\Debug\School Management System.exe
+F:\School Management System\obj\Debug\School Management System.pdb
+F:\School Management System\bin\Debug\School Management System.pdb
+E:\School Management System\bin\Debug\School Management System.exe.config
+E:\School Management System\bin\Debug\School Management System.exe
+E:\School Management System\bin\Debug\School Management System.pdb
+E:\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+E:\School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+E:\School Management System\obj\Debug\School_Management_System.frmDetails.resources
+E:\School Management System\obj\Debug\School_Management_System.Registration.resources
+E:\School Management System\obj\Debug\School_Management_System.frmHome.resources
+E:\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+E:\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+E:\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+E:\School Management System\obj\Debug\School Management System.exe
+E:\School Management System\obj\Debug\School Management System.pdb
+F:\Final School Management System\bin\Debug\School Management System.exe.config
+F:\Final School Management System\bin\Debug\School Management System.exe
+F:\Final School Management System\bin\Debug\School Management System.pdb
+F:\Final School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+F:\Final School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+F:\Final School Management System\obj\Debug\School_Management_System.frmDetails.resources
+F:\Final School Management System\obj\Debug\School_Management_System.Registration.resources
+F:\Final School Management System\obj\Debug\School_Management_System.frmHome.resources
+F:\Final School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+F:\Final School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+F:\Final School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+F:\Final School Management System\obj\Debug\School Management System.exe
+F:\Final School Management System\obj\Debug\School Management System.pdb
+F:\With Image School Management System\bin\Debug\School Management System.exe.config
+F:\With Image School Management System\bin\Debug\School Management System.exe
+F:\With Image School Management System\bin\Debug\School Management System.pdb
+F:\With Image School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+F:\With Image School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+F:\With Image School Management System\obj\Debug\School_Management_System.frmDetails.resources
+F:\With Image School Management System\obj\Debug\School_Management_System.Registration.resources
+F:\With Image School Management System\obj\Debug\School_Management_System.frmHome.resources
+F:\With Image School Management System\obj\Debug\School_Management_System.Forms.Result.resources
+F:\With Image School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+F:\With Image School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+F:\With Image School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+F:\With Image School Management System\obj\Debug\School Management System.exe
+F:\With Image School Management System\obj\Debug\School Management System.pdb
+E:\With Image School Management System\bin\Debug\School Management System.exe
+E:\With Image School Management System\bin\Debug\School Management System.pdb
+E:\With Image School Management System\bin\Debug\School Management System.exe.config
+E:\With Image School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+E:\With Image School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+E:\With Image School Management System\obj\Debug\School_Management_System.frmDetails.resources
+E:\With Image School Management System\obj\Debug\School_Management_System.Registration.resources
+E:\With Image School Management System\obj\Debug\School_Management_System.frmHome.resources
+E:\With Image School Management System\obj\Debug\School_Management_System.Forms.Result.resources
+E:\With Image School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+E:\With Image School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+E:\With Image School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+E:\With Image School Management System\obj\Debug\School Management System.exe
+E:\With Image School Management System\obj\Debug\School Management System.pdb
+E:\School Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\School Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\School Management System\bin\Debug\CrystalDecisions.Shared.dll
+E:\School Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\School Management System\bin\Debug\stdole.dll
+E:\School Management System\obj\Debug\School_Management_System.Forms.Report.resources
+E:\School Management System\obj\Debug\School_Management_System.Forms.Result.resources
+E:\School Management System\obj\Debug\School Management System.csproj.CopyComplete
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\School Management System.exe
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\School Management System.pdb
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\idb_c#\Desktop\School Management System\bin\Debug\stdole.dll
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School_Management_System.frmDetails.resources
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School_Management_System.Registration.resources
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School_Management_System.frmHome.resources
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School_Management_System.Forms.Report.resources
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School_Management_System.Forms.Result.resources
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School Management System.csproj.CopyComplete
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School Management System.exe
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School Management System.pdb
+C:\Users\idb_c#\Desktop\School Management System\obj\Debug\School_Management_System.Forms.Marksheet.resources
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\School Management System.exe
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\School Management System.pdb
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\bin\Debug\stdole.dll
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School_Management_System.frmDetails.resources
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School_Management_System.Forms.Marksheet.resources
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School_Management_System.Registration.resources
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School_Management_System.frmHome.resources
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School_Management_System.Forms.Report.resources
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School_Management_System.Forms.Result.resources
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School Management System.csproj.CopyComplete
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School Management System.exe
+C:\Users\idb_c#\Desktop\1272311\School Management System\obj\Debug\School Management System.pdb
+E:\1272311\School Management System\bin\Debug\School Management System.exe.config
+E:\1272311\School Management System\bin\Debug\School Management System.exe
+E:\1272311\School Management System\bin\Debug\School Management System.pdb
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.Shared.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\1272311\School Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\1272311\School Management System\bin\Debug\stdole.dll
+E:\1272311\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+E:\1272311\School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+E:\1272311\School Management System\obj\Debug\School_Management_System.frmDetails.resources
+E:\1272311\School Management System\obj\Debug\School_Management_System.Forms.Marksheet.resources
+E:\1272311\School Management System\obj\Debug\School_Management_System.Registration.resources
+E:\1272311\School Management System\obj\Debug\School_Management_System.frmHome.resources
+E:\1272311\School Management System\obj\Debug\School_Management_System.Forms.Report.resources
+E:\1272311\School Management System\obj\Debug\School_Management_System.Forms.Result.resources
+E:\1272311\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+E:\1272311\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+E:\1272311\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+E:\1272311\School Management System\obj\Debug\School Management System.csproj.CopyComplete
+E:\1272311\School Management System\obj\Debug\School Management System.exe
+E:\1272311\School Management System\obj\Debug\School Management System.pdb
